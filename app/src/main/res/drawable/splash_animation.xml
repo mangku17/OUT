@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--splash 집 깜박이는 애니메이션-->
+    <item android:drawable="@drawable/splash01" android:duration="400" />
+    <item android:drawable="@drawable/splash03" android:duration="400" />
+    <item android:drawable="@drawable/splash02" android:duration="200" />
+    <item android:drawable="@drawable/splash03" android:duration="300" />
+    <item android:drawable="@drawable/splash02" android:duration="200" />
+    <item android:drawable="@drawable/splash03" android:duration="300" />
+    <item android:drawable="@drawable/splash02" android:duration="200" />
+    <item android:drawable="@drawable/splash03" android:duration="300" />
+    <item android:drawable="@drawable/splash02" android:duration="5000" />
+
+</animation-list>
